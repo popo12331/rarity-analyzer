@@ -7,12 +7,11 @@ export const rarityStore = {
 		offset = (sortBy !== "id") ? offset : offset + 1 ; 
 		const dataStack =
 			sortBy !== "id" ? rarity.ranked : Object.keys(rarity.rarity);
-		console.log(dataStack);
 		const data =
 			traitCount && traitCount.length
 				? dataStack.filter(
 						(key) =>
-							traitCount.indexOf(rarity.rarity[key].attributes.length) > -1
+							traitCount.indexOf(rarity.rarity[key + 1].attributes.length) > -1
 				  )
 				: dataStack;
 		const dataWithTraitFilter =
