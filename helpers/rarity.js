@@ -41,6 +41,6 @@ export const rarityStore = {
 	getRanks: () => rarity.ranked,
 	getMeta: () => rarity.meta,
 	getById: (id) => {
-		return rarity.rarity.find((rar) => rar != null && rar.id === Number(id));
+		return rarity.rarity.find((rar) => rar !== null && rar.id === Number(id));
 	},
 };
