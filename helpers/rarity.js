@@ -11,18 +11,19 @@ export const rarityStore = {
 			traitCount && traitCount.length
 				? dataStack.filter(
 						(key) =>
-							traitCount.indexOf(rarity.rarity[key + 1].attributes.length) > -1
+							traitCount.indexOf(rarity.rarity[key].attributes.length) > -1
 				  )
 				: dataStack;
 		const dataWithTraitFilter =
 			traits && traits.length
 				? data.filter((key) =>
+					      { console.log(key);
 						traits.find(
 							(traitValue) =>
-								!!rarity.rarity[key + 1].attributes.find(
+								!!rarity.rarity[key].attributes.find(
 									(rarityAttribute) => rarityAttribute.value === traitValue
 								)
-						)
+						)}
 				  )
 				: data;
 		// pagination
