@@ -39,7 +39,7 @@ export async function getStaticPaths() {
 
 export async function getStaticProps({ params }: any) {
   console.log(params);
-  const post = rarityStore.getById(params.viewId);
+  const post = rarityStore.getById(params.viewId.toString());
   console.log(post);
   const traits = rarityStore.getTraits();
   const meta = rarityStore.getMeta();
