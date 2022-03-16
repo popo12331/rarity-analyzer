@@ -18,6 +18,7 @@ export const rarityStore = {
 			traits && traits.length
 				? data.filter((key) =>
 					      { 
+					console.log(rarity.rarity[parseInt(key) + 1]);
 						traits.find(
 							(traitValue) =>
 								!!rarity.rarity[parseInt(key) + 1].attributes.find(
