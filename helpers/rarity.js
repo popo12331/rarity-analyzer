@@ -20,15 +20,13 @@ export const rarityStore = {
 				? data.filter((key) => { 
 					if(rarity.rarity[key] !== null){
 					
-						traits.find(
+						return traits.find(
 							(traitValue) =>
 								!!rarity.rarity[key].attributes.find(
 									(rarityAttribute) => rarityAttribute.value === traitValue
 								)
 						)
-					} else {
-						console.log(rarity.rarity[key]);	
-					}
+					} 
 				}
 				  )
 				: data;
