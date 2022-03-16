@@ -33,6 +33,7 @@ export const rarityStore = {
 			.map((key, index) => {
 				return rarity.rarity[key];
 			});
+		console.log(page)
 		return {
 			data: page,
 			total: dataWithTraitFilter.length,
