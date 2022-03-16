@@ -21,7 +21,6 @@ const RarityList = ({
 	traits: any;
 	setTokens: any;
 }) => {
-	console.log(tokens)
 	const router = useRouter();
 	const [filter, setFilter] = React.useState<any>({
 		page: 1,
