@@ -110,7 +110,7 @@ const Token = ({ token, traits, meta, isPage, close }: any) => {
                           </div>
                           <div className=" flex items-center justify-between text-base font-medium text-gray-900 space-x-8 py-0 px-1  ">
                             <div className="text-md font-medium text-gray-800 dark:text-gray-200 capitalize">
-                              {trait.value.split('_').join(' ') || '<none>'}
+                              {trait.value || '<none>'}
                             </div>
                             <div className="text-sm font-bold text-gray-900 dark:text-gray-200">
                               {traits && trait.value
