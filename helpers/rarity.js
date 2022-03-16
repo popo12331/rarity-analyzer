@@ -4,7 +4,7 @@ let rarity = require("../data/rarity.json");
 export const rarityStore = {
 	getAll: () => rarity.rarity,
 	getPage: ({ limit, offset, traitCount, traits, sortBy = "id" }) => {
-		offset = (sortBy !== "id" || traits && traits.length) ? offset : offset + 1 ; 
+		offset = (sortBy !== "id") ? offset : offset + 1 ; 
 		const dataStack =
 			sortBy !== "id" ? rarity.ranked : Object.keys(rarity.rarity);
 		const data =
