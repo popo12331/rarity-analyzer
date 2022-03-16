@@ -6,6 +6,7 @@ export const rarityStore = {
 	getPage: ({ limit, offset, traitCount, traits, sortBy = "id" }) => {
 		const dataStack =
 			sortBy !== "id" ? rarity.ranked : Object.keys(rarity.rarity);
+		console.log(dataStack)
 		const data =
 			traitCount && traitCount.length
 				? dataStack.filter(
@@ -14,6 +15,7 @@ export const rarityStore = {
 				  )
 				: dataStack;
 
+		console.log(data)
 		const dataWithTraitFilter =
 			traits && traits.length
 				? data.filter((key) =>
@@ -25,12 +27,14 @@ export const rarityStore = {
 						)
 				  )
 				: data;
+		console.log(dataWithTraitFilter)
 		// pagination
 		const page = dataWithTraitFilter
 			.slice(offset, offset + limit)
 			.map((key, index) => {
 				return rarity.rarity[key];
 			});
+		console.log(page)
 		return {
 			data: page,
 			total: dataWithTraitFilter.length,
