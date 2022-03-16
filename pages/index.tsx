@@ -16,7 +16,7 @@ const Home: NextPage = ({ traits, count, intialTokens, meta }: any) => {
 
   const getActiveToken = () => {
     const listToken = tokens.data.find(
-      (token: any) => token.id === Number(router.query.viewId)
+      (token: any) => token !== null && token.id === Number(router.query.viewId)
     );
     if (listToken) setActiveToken(listToken);
     setActiveToken(rarityStore.getById(router.query.viewId));
