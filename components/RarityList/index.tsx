@@ -211,8 +211,8 @@ const RarityList = ({
 
 				<div className="grid grid-cols-1 sm:grid-cols-4 gap-3">
 					{tokens.data &&
-						Object.keys(tokens.data).map((token: any) => {
-						   <TokenCard key={tokens.data[token]} token={tokens.data[token]} />
+						tokens.data.map((token: any) => {
+						   <TokenCard key={token.id} token={token} />
 						})
 					}
 				</div>
