@@ -18,13 +18,14 @@ export const rarityStore = {
 			traits && traits.length
 				? data.filter((key) =>
 					      { 
-					console.log(rarity.rarity[key]);
-						traits.find(
-							(traitValue) =>
-								!!rarity.rarity[key].attributes.find(
-									(rarityAttribute) => rarityAttribute.value === traitValue
-								)
-						)}
+						if(typeof rarity.rarity[key] !== "undefined"){
+							traits.find(
+								(traitValue) =>
+									!!rarity.rarity[key].attributes.find(
+										(rarityAttribute) => rarityAttribute.value === traitValue
+									)
+							)}	
+						}
 				  )
 				: data;
 		// pagination
