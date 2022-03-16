@@ -30,7 +30,7 @@ export async function getStaticPaths() {
 
   const paths = Object.keys(posts)
     .slice(0, 20)
-    .map((post: any) => { console.log( posts[parseInt(post) + 1]); return {
+    .map((post: any) => { return {
       params: { viewId: posts[parseInt(post) + 1].id.toString() }
     }});
 
@@ -38,7 +38,9 @@ export async function getStaticPaths() {
 }
 
 export async function getStaticProps({ params }: any) {
+  console.log(params);
   const post = rarityStore.getById(params.viewId);
+  console.log(post);
   const traits = rarityStore.getTraits();
   const meta = rarityStore.getMeta();
 
