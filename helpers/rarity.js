@@ -5,7 +5,6 @@ export const rarityStore = {
 	getAll: () => rarity.rarity,
 	getPage: ({ limit, offset, traitCount, traits, sortBy = "id" }) => {
 		offset = offset + 1; 
-		limit = limit + 1;
 		const dataStack =
 			sortBy !== "id" ? rarity.ranked : Object.keys(rarity.rarity);
 		const data =
