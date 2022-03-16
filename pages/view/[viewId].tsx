@@ -31,7 +31,7 @@ export async function getStaticPaths() {
   const paths = Object.keys(posts)
     .slice(0, 20)
     .map((post: any) => ({
-      params: { viewId: posts[parseInt(post + 1)].id.toString() }
+      params: { viewId: posts[parseInt(post) + 1].id.toString() }
     }));
 
   return { paths, fallback: true };
