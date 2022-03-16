@@ -26,6 +26,8 @@ export const rarityStore = {
 									(rarityAttribute) => rarityAttribute.value === traitValue
 								)
 						)
+					} else {
+						console.log(rarity.rarity[key]);	
 					}
 				}
 				  )
