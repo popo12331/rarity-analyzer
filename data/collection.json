@@ -71002,5 +71002,3400 @@
 			}
 		],
 		"compiler": "HashLips Art Engine"
+	},
+	{
+		"name": "Telpacas #1269",
+		"description": "Telpacas is a generative collection of 10,000 tokens that live on the Telos EVM blockchain. Each Telpaca is unique. A few have very rare and surprising attributes.",
+		"image": "ipfs://Qmbvf8HqLv5BHheXDucQFXmYP9byEKfZwnXKwaZCqpkt6h/1269.png",
+		"dna": "0945cb67e3309439da82bf7da339afc4097059e7",
+		"id": 1269,
+		"date": 1646924496199,
+		"attributes": [
+			{
+				"trait_type": "Background",
+				"value": "Desert"
+			},
+			{
+				"trait_type": "Fur and Tail",
+				"value": "Darkgreen"
+			},
+			{
+				"trait_type": "Breed",
+				"value": "Common"
+			},
+			{
+				"trait_type": "Skin",
+				"value": "Common"
+			},
+			{
+				"trait_type": "Patterns",
+				"value": "Large Spots"
+			},
+			{
+				"trait_type": "Flags",
+				"value": "None"
+			},
+			{
+				"trait_type": "Head",
+				"value": "Party Hat"
+			},
+			{
+				"trait_type": "Facial Hair",
+				"value": "Clean Shaven"
+			},
+			{
+				"trait_type": "Neck",
+				"value": "Pink Bandana"
+			},
+			{
+				"trait_type": "Pets",
+				"value": "None"
+			},
+			{
+				"trait_type": "Poop",
+				"value": "none"
+			}
+		],
+		"compiler": "HashLips Art Engine"
+	},
+	{
+		"name": "Telpacas #1270",
+		"description": "Telpacas is a generative collection of 10,000 tokens that live on the Telos EVM blockchain. Each Telpaca is unique. A few have very rare and surprising attributes.",
+		"image": "ipfs://Qmbvf8HqLv5BHheXDucQFXmYP9byEKfZwnXKwaZCqpkt6h/1270.png",
+		"dna": "2fcb5a45e6531262bd3b12a21bb41b14385cfe6a",
+		"id": 1270,
+		"date": 1646925448563,
+		"attributes": [
+			{
+				"trait_type": "Background",
+				"value": "Forest"
+			},
+			{
+				"trait_type": "Fur and Tail",
+				"value": "Standard"
+			},
+			{
+				"trait_type": "Skin",
+				"value": "Common"
+			},
+			{
+				"trait_type": "Expressions",
+				"value": "Neutral"
+			},
+			{
+				"trait_type": "Eyes",
+				"value": "Straight Look"
+			},
+			{
+				"trait_type": "Patterns",
+				"value": "Large Spots"
+			},
+			{
+				"trait_type": "Flags",
+				"value": "Singapore"
+			},
+			{
+				"trait_type": "Head",
+				"value": "Cowboy Hat"
+			},
+			{
+				"trait_type": "Mouth Accessories",
+				"value": "None"
+			},
+			{
+				"trait_type": "Neck",
+				"value": "Bowtie"
+			},
+			{
+				"trait_type": "Pets",
+				"value": "None"
+			},
+			{
+				"trait_type": "Poop",
+				"value": "none"
+			}
+		],
+		"compiler": "HashLips Art Engine"
+	},
+	{
+		"name": "Telpacas #1271",
+		"description": "Telpacas is a generative collection of 10,000 tokens that live on the Telos EVM blockchain. Each Telpaca is unique. A few have very rare and surprising attributes.",
+		"image": "ipfs://Qmbvf8HqLv5BHheXDucQFXmYP9byEKfZwnXKwaZCqpkt6h/1271.png",
+		"dna": "ccd525a7018b86a04dc7ca330cb55a9a4b15c551",
+		"id": 1271,
+		"date": 1646924736085,
+		"attributes": [
+			{
+				"trait_type": "Background",
+				"value": "Forest"
+			},
+			{
+				"trait_type": "Fur and Tail",
+				"value": "Black"
+			},
+			{
+				"trait_type": "Breed",
+				"value": "Common"
+			},
+			{
+				"trait_type": "Patterns",
+				"value": "Large Spots"
+			},
+			{
+				"trait_type": "Flags",
+				"value": "None"
+			},
+			{
+				"trait_type": "Glasses",
+				"value": "Pirate"
+			},
+			{
+				"trait_type": "Head",
+				"value": "Wide Hair"
+			},
+			{
+				"trait_type": "Facial Hair",
+				"value": "Clean Shaven"
+			},
+			{
+				"trait_type": "Neck",
+				"value": "Bowtie"
+			},
+			{
+				"trait_type": "Pets",
+				"value": "None"
+			},
+			{
+				"trait_type": "Poop",
+				"value": "none"
+			}
+		],
+		"compiler": "HashLips Art Engine"
+	},
+	{
+		"name": "Telpacas #1272",
+		"description": "Telpacas is a generative collection of 10,000 tokens that live on the Telos EVM blockchain. Each Telpaca is unique. A few have very rare and surprising attributes.",
+		"image": "ipfs://Qmbvf8HqLv5BHheXDucQFXmYP9byEKfZwnXKwaZCqpkt6h/1272.png",
+		"dna": "9c520fffc1c2bf22356fb80ec2a3000dec027fb7",
+		"id": 1272,
+		"date": 1646925089021,
+		"attributes": [
+			{
+				"trait_type": "Background",
+				"value": "Snowcapped Mountains"
+			},
+			{
+				"trait_type": "Fur and Tail",
+				"value": "Black"
+			},
+			{
+				"trait_type": "Breed",
+				"value": "Common"
+			},
+			{
+				"trait_type": "Patterns",
+				"value": "Stripes"
+			},
+			{
+				"trait_type": "Flags",
+				"value": "None"
+			},
+			{
+				"trait_type": "Glasses",
+				"value": "Pirate"
+			},
+			{
+				"trait_type": "Head",
+				"value": "Fringe"
+			},
+			{
+				"trait_type": "Facial Hair",
+				"value": "Brown Goatie"
+			},
+			{
+				"trait_type": "Neck",
+				"value": "Bowtie"
+			},
+			{
+				"trait_type": "Pets",
+				"value": "None"
+			},
+			{
+				"trait_type": "Poop",
+				"value": "none"
+			}
+		],
+		"compiler": "HashLips Art Engine"
+	},
+	{
+		"name": "Telpacas #1273",
+		"description": "Telpacas is a generative collection of 10,000 tokens that live on the Telos EVM blockchain. Each Telpaca is unique. A few have very rare and surprising attributes.",
+		"image": "ipfs://Qmbvf8HqLv5BHheXDucQFXmYP9byEKfZwnXKwaZCqpkt6h/1273.png",
+		"dna": "4c4a328f1b3a5ae31e445e1a0e81bdfaebc5d7de",
+		"id": 1273,
+		"date": 1646924592794,
+		"attributes": [
+			{
+				"trait_type": "Background",
+				"value": "Plateau"
+			},
+			{
+				"trait_type": "Fur and Tail",
+				"value": "Standard"
+			},
+			{
+				"trait_type": "Breed",
+				"value": "Common"
+			},
+			{
+				"trait_type": "Skin",
+				"value": "Common"
+			},
+			{
+				"trait_type": "Patterns",
+				"value": "Stripes"
+			},
+			{
+				"trait_type": "Flags",
+				"value": "None"
+			},
+			{
+				"trait_type": "Head",
+				"value": "Beanie"
+			},
+			{
+				"trait_type": "Facial Hair",
+				"value": "Moustache5"
+			},
+			{
+				"trait_type": "Neck",
+				"value": "None"
+			},
+			{
+				"trait_type": "Pets",
+				"value": "Parrot"
+			},
+			{
+				"trait_type": "Poop",
+				"value": "none"
+			}
+		],
+		"compiler": "HashLips Art Engine"
+	},
+	{
+		"name": "Telpacas #1274",
+		"description": "Telpacas is a generative collection of 10,000 tokens that live on the Telos EVM blockchain. Each Telpaca is unique. A few have very rare and surprising attributes.",
+		"image": "ipfs://Qmbvf8HqLv5BHheXDucQFXmYP9byEKfZwnXKwaZCqpkt6h/1274.png",
+		"dna": "b6db6426d9cef969332826c4bd4edc0f208ca5e9",
+		"id": 1274,
+		"date": 1646926644719,
+		"attributes": [
+			{
+				"trait_type": "Background",
+				"value": "Forest"
+			},
+			{
+				"trait_type": "Fur and Tail",
+				"value": "Standard"
+			},
+			{
+				"trait_type": "Breed",
+				"value": "Common"
+			},
+			{
+				"trait_type": "Skin",
+				"value": "Common"
+			},
+			{
+				"trait_type": "Patterns",
+				"value": "Socks"
+			},
+			{
+				"trait_type": "Flags",
+				"value": "None"
+			},
+			{
+				"trait_type": "Head",
+				"value": "Bullseye"
+			},
+			{
+				"trait_type": "Mouth",
+				"value": "Pink Lipstick"
+			},
+			{
+				"trait_type": "Neck",
+				"value": "None"
+			},
+			{
+				"trait_type": "Pets",
+				"value": "None"
+			},
+			{
+				"trait_type": "Poop",
+				"value": "none"
+			}
+		],
+		"compiler": "HashLips Art Engine"
+	},
+	{
+		"name": "Telpacas #1275",
+		"description": "Telpacas is a generative collection of 10,000 tokens that live on the Telos EVM blockchain. Each Telpaca is unique. A few have very rare and surprising attributes.",
+		"image": "ipfs://Qmbvf8HqLv5BHheXDucQFXmYP9byEKfZwnXKwaZCqpkt6h/1275.png",
+		"dna": "ff1d47b03ec7170897044211bc5539697b148b44",
+		"id": 1275,
+		"date": 1646924985622,
+		"attributes": [
+			{
+				"trait_type": "Background",
+				"value": "Forest"
+			},
+			{
+				"trait_type": "Fur and Tail",
+				"value": "Brown"
+			},
+			{
+				"trait_type": "Breed",
+				"value": "Common"
+			},
+			{
+				"trait_type": "Patterns",
+				"value": "Common"
+			},
+			{
+				"trait_type": "Flags",
+				"value": "None"
+			},
+			{
+				"trait_type": "Glasses",
+				"value": "None"
+			},
+			{
+				"trait_type": "Head",
+				"value": "Gold Unicorn"
+			},
+			{
+				"trait_type": "Facial Hair",
+				"value": "Clean Shaven"
+			},
+			{
+				"trait_type": "Neck",
+				"value": "Choker"
+			},
+			{
+				"trait_type": "Pets",
+				"value": "None"
+			},
+			{
+				"trait_type": "Poop",
+				"value": "none"
+			}
+		],
+		"compiler": "HashLips Art Engine"
+	},
+	{
+		"name": "Telpacas #1276",
+		"description": "Telpacas is a generative collection of 10,000 tokens that live on the Telos EVM blockchain. Each Telpaca is unique. A few have very rare and surprising attributes.",
+		"image": "ipfs://Qmbvf8HqLv5BHheXDucQFXmYP9byEKfZwnXKwaZCqpkt6h/1276.png",
+		"dna": "d5d7653c2d1eb5b45a87ca55c0217032856b5751",
+		"id": 1276,
+		"date": 1646925214406,
+		"attributes": [
+			{
+				"trait_type": "Background",
+				"value": "Mountains"
+			},
+			{
+				"trait_type": "Fur and Tail",
+				"value": "Standard"
+			},
+			{
+				"trait_type": "Breed",
+				"value": "Common"
+			},
+			{
+				"trait_type": "Patterns",
+				"value": "Common"
+			},
+			{
+				"trait_type": "Flags",
+				"value": "USA"
+			},
+			{
+				"trait_type": "Glasses",
+				"value": "Violet Sunglasses"
+			},
+			{
+				"trait_type": "Head",
+				"value": "Wide Hair"
+			},
+			{
+				"trait_type": "Facial Hair",
+				"value": "Clean Shaven"
+			},
+			{
+				"trait_type": "Neck",
+				"value": "Pink Bandana"
+			},
+			{
+				"trait_type": "Pets",
+				"value": "None"
+			},
+			{
+				"trait_type": "Poop",
+				"value": "none"
+			}
+		],
+		"compiler": "HashLips Art Engine"
+	},
+	{
+		"name": "Telpacas #1277",
+		"description": "Telpacas is a generative collection of 10,000 tokens that live on the Telos EVM blockchain. Each Telpaca is unique. A few have very rare and surprising attributes.",
+		"image": "ipfs://Qmbvf8HqLv5BHheXDucQFXmYP9byEKfZwnXKwaZCqpkt6h/1277.png",
+		"dna": "e62d5c4fd8e195857b28016a682d73ad2be572fe",
+		"id": 1277,
+		"date": 1646924254212,
+		"attributes": [
+			{
+				"trait_type": "Background",
+				"value": "Snowcapped Mountains"
+			},
+			{
+				"trait_type": "Fur and Tail",
+				"value": "Brown"
+			},
+			{
+				"trait_type": "Breed",
+				"value": "Common"
+			},
+			{
+				"trait_type": "Skin",
+				"value": "Common"
+			},
+			{
+				"trait_type": "Patterns",
+				"value": "Stripes"
+			},
+			{
+				"trait_type": "Flags",
+				"value": "Philippines"
+			},
+			{
+				"trait_type": "Head",
+				"value": "Helicopter Cap"
+			},
+			{
+				"trait_type": "Facial Hair",
+				"value": "Clean Shaven"
+			},
+			{
+				"trait_type": "Neck",
+				"value": "None"
+			},
+			{
+				"trait_type": "Pets",
+				"value": "None"
+			},
+			{
+				"trait_type": "Poop",
+				"value": "none"
+			}
+		],
+		"compiler": "HashLips Art Engine"
+	},
+	{
+		"name": "Telpacas #1278",
+		"description": "Telpacas is a generative collection of 10,000 tokens that live on the Telos EVM blockchain. Each Telpaca is unique. A few have very rare and surprising attributes.",
+		"image": "ipfs://Qmbvf8HqLv5BHheXDucQFXmYP9byEKfZwnXKwaZCqpkt6h/1278.png",
+		"dna": "d23e44adaab4df39d24637c1d3ff10c3be2ee7cf",
+		"id": 1278,
+		"date": 1646924570251,
+		"attributes": [
+			{
+				"trait_type": "Background",
+				"value": "Snowcapped Mountains"
+			},
+			{
+				"trait_type": "Fur and Tail",
+				"value": "Standard"
+			},
+			{
+				"trait_type": "Breed",
+				"value": "Common"
+			},
+			{
+				"trait_type": "Skin",
+				"value": "Common"
+			},
+			{
+				"trait_type": "Patterns",
+				"value": "Socks"
+			},
+			{
+				"trait_type": "Flags",
+				"value": "None"
+			},
+			{
+				"trait_type": "Head",
+				"value": "None"
+			},
+			{
+				"trait_type": "Facial Hair",
+				"value": "Brown Goatie"
+			},
+			{
+				"trait_type": "Neck",
+				"value": "Choker"
+			},
+			{
+				"trait_type": "Pets",
+				"value": "None"
+			},
+			{
+				"trait_type": "Poop",
+				"value": "none"
+			}
+		],
+		"compiler": "HashLips Art Engine"
+	},
+	{
+		"name": "Telpacas #1279",
+		"description": "Telpacas is a generative collection of 10,000 tokens that live on the Telos EVM blockchain. Each Telpaca is unique. A few have very rare and surprising attributes.",
+		"image": "ipfs://Qmbvf8HqLv5BHheXDucQFXmYP9byEKfZwnXKwaZCqpkt6h/1279.png",
+		"dna": "d0f3c4f31f6ab5a84c63c1c401c207777509dd5b",
+		"id": 1279,
+		"date": 1646926214444,
+		"attributes": [
+			{
+				"trait_type": "Background",
+				"value": "Forest"
+			},
+			{
+				"trait_type": "Fur and Tail",
+				"value": "Rainbow Tailed Small"
+			},
+			{
+				"trait_type": "Breed",
+				"value": "Common"
+			},
+			{
+				"trait_type": "Skin",
+				"value": "Common"
+			},
+			{
+				"trait_type": "Patterns",
+				"value": "Socks"
+			},
+			{
+				"trait_type": "Flags",
+				"value": "None"
+			},
+			{
+				"trait_type": "Head",
+				"value": "Bandana"
+			},
+			{
+				"trait_type": "Mouth",
+				"value": "Red Lipstick"
+			},
+			{
+				"trait_type": "Neck",
+				"value": "Pink Bandana"
+			},
+			{
+				"trait_type": "Pets",
+				"value": "None"
+			},
+			{
+				"trait_type": "Poop",
+				"value": "none"
+			}
+		],
+		"compiler": "HashLips Art Engine"
+	},
+	{
+		"name": "Telpacas #1280",
+		"description": "Telpacas is a generative collection of 10,000 tokens that live on the Telos EVM blockchain. Each Telpaca is unique. A few have very rare and surprising attributes.",
+		"image": "ipfs://Qmbvf8HqLv5BHheXDucQFXmYP9byEKfZwnXKwaZCqpkt6h/1280.png",
+		"dna": "d1f375b02192562820913a589a9da1cdf0a975df",
+		"id": 1280,
+		"date": 1646924578342,
+		"attributes": [
+			{
+				"trait_type": "Background",
+				"value": "Fence"
+			},
+			{
+				"trait_type": "Fur and Tail",
+				"value": "Black"
+			},
+			{
+				"trait_type": "Breed",
+				"value": "Alien"
+			},
+			{
+				"trait_type": "Skin",
+				"value": "Common"
+			},
+			{
+				"trait_type": "Patterns",
+				"value": "Common"
+			},
+			{
+				"trait_type": "Flags",
+				"value": "None"
+			},
+			{
+				"trait_type": "Head",
+				"value": "None"
+			},
+			{
+				"trait_type": "Facial Hair",
+				"value": "Clean Shaven"
+			},
+			{
+				"trait_type": "Neck",
+				"value": "Choker"
+			},
+			{
+				"trait_type": "Pets",
+				"value": "None"
+			},
+			{
+				"trait_type": "Poop",
+				"value": "none"
+			}
+		],
+		"compiler": "HashLips Art Engine"
+	},
+	{
+		"name": "Telpacas #1281",
+		"description": "Telpacas is a generative collection of 10,000 tokens that live on the Telos EVM blockchain. Each Telpaca is unique. A few have very rare and surprising attributes.",
+		"image": "ipfs://Qmbvf8HqLv5BHheXDucQFXmYP9byEKfZwnXKwaZCqpkt6h/1281.png",
+		"dna": "78788f2371c61b3e2a89aa91c53fcbaa9d01cea5",
+		"id": 1281,
+		"date": 1646924439652,
+		"attributes": [
+			{
+				"trait_type": "Background",
+				"value": "Desert"
+			},
+			{
+				"trait_type": "Fur and Tail",
+				"value": "Standard"
+			},
+			{
+				"trait_type": "Breed",
+				"value": "Common"
+			},
+			{
+				"trait_type": "Skin",
+				"value": "Common"
+			},
+			{
+				"trait_type": "Patterns",
+				"value": "Large Spots"
+			},
+			{
+				"trait_type": "Flags",
+				"value": "None"
+			},
+			{
+				"trait_type": "Head",
+				"value": "Pom Pom Beanie"
+			},
+			{
+				"trait_type": "Facial Hair",
+				"value": "Brown Beard"
+			},
+			{
+				"trait_type": "Neck",
+				"value": "Bowtie"
+			},
+			{
+				"trait_type": "Pets",
+				"value": "None"
+			},
+			{
+				"trait_type": "Poop",
+				"value": "none"
+			}
+		],
+		"compiler": "HashLips Art Engine"
+	},
+	{
+		"name": "Telpacas #1282",
+		"description": "Telpacas is a generative collection of 10,000 tokens that live on the Telos EVM blockchain. Each Telpaca is unique. A few have very rare and surprising attributes.",
+		"image": "ipfs://Qmbvf8HqLv5BHheXDucQFXmYP9byEKfZwnXKwaZCqpkt6h/1282.png",
+		"dna": "31ba16ea6ffc0e16502afd7c041385a93271030b",
+		"id": 1282,
+		"date": 1646925335100,
+		"attributes": [
+			{
+				"trait_type": "Background",
+				"value": "Plateau"
+			},
+			{
+				"trait_type": "Fur and Tail",
+				"value": "Flashy"
+			},
+			{
+				"trait_type": "Skin",
+				"value": "Mole"
+			},
+			{
+				"trait_type": "Expressions",
+				"value": "Neutral"
+			},
+			{
+				"trait_type": "Eyes",
+				"value": "Crossed eyes"
+			},
+			{
+				"trait_type": "Patterns",
+				"value": "Curls"
+			},
+			{
+				"trait_type": "Flags",
+				"value": "None"
+			},
+			{
+				"trait_type": "Head",
+				"value": "Backwards Cap"
+			},
+			{
+				"trait_type": "Mouth Accessories",
+				"value": "Bubblegum"
+			},
+			{
+				"trait_type": "Neck",
+				"value": "None"
+			},
+			{
+				"trait_type": "Pets",
+				"value": "None"
+			},
+			{
+				"trait_type": "Poop",
+				"value": "none"
+			}
+		],
+		"compiler": "HashLips Art Engine"
+	},
+	{
+		"name": "Telpacas #1283",
+		"description": "Telpacas is a generative collection of 10,000 tokens that live on the Telos EVM blockchain. Each Telpaca is unique. A few have very rare and surprising attributes.",
+		"image": "ipfs://Qmbvf8HqLv5BHheXDucQFXmYP9byEKfZwnXKwaZCqpkt6h/1283.png",
+		"dna": "73f422288db70e4274e402c47eb0660dd18fc1d4",
+		"id": 1283,
+		"date": 1646924318192,
+		"attributes": [
+			{
+				"trait_type": "Background",
+				"value": "Desert"
+			},
+			{
+				"trait_type": "Fur and Tail",
+				"value": "Brown"
+			},
+			{
+				"trait_type": "Breed",
+				"value": "Common"
+			},
+			{
+				"trait_type": "Skin",
+				"value": "Common"
+			},
+			{
+				"trait_type": "Patterns",
+				"value": "Common"
+			},
+			{
+				"trait_type": "Flags",
+				"value": "None"
+			},
+			{
+				"trait_type": "Head",
+				"value": "None"
+			},
+			{
+				"trait_type": "Facial Hair",
+				"value": "Clean Shaven"
+			},
+			{
+				"trait_type": "Neck",
+				"value": "Pink Bandana"
+			},
+			{
+				"trait_type": "Pets",
+				"value": "None"
+			},
+			{
+				"trait_type": "Poop",
+				"value": "none"
+			}
+		],
+		"compiler": "HashLips Art Engine"
+	},
+	{
+		"name": "Telpacas #1284",
+		"description": "Telpacas is a generative collection of 10,000 tokens that live on the Telos EVM blockchain. Each Telpaca is unique. A few have very rare and surprising attributes.",
+		"image": "ipfs://Qmbvf8HqLv5BHheXDucQFXmYP9byEKfZwnXKwaZCqpkt6h/1284.png",
+		"dna": "85dcf5d98ac8e1e603ffcb7205231ebfb6069076",
+		"id": 1284,
+		"date": 1646925267924,
+		"attributes": [
+			{
+				"trait_type": "Background",
+				"value": "Fence"
+			},
+			{
+				"trait_type": "Fur and Tail",
+				"value": "Black"
+			},
+			{
+				"trait_type": "Skin",
+				"value": "Mole"
+			},
+			{
+				"trait_type": "Expressions",
+				"value": "Neutral"
+			},
+			{
+				"trait_type": "Eyes",
+				"value": "Look Away"
+			},
+			{
+				"trait_type": "Patterns",
+				"value": "Common"
+			},
+			{
+				"trait_type": "Flags",
+				"value": "None"
+			},
+			{
+				"trait_type": "Head",
+				"value": "Party Hat"
+			},
+			{
+				"trait_type": "Mouth Accessories",
+				"value": "None"
+			},
+			{
+				"trait_type": "Neck",
+				"value": "None"
+			},
+			{
+				"trait_type": "Pets",
+				"value": "None"
+			},
+			{
+				"trait_type": "Poop",
+				"value": "none"
+			}
+		],
+		"compiler": "HashLips Art Engine"
+	},
+	{
+		"name": "Telpacas #1285",
+		"description": "Telpacas is a generative collection of 10,000 tokens that live on the Telos EVM blockchain. Each Telpaca is unique. A few have very rare and surprising attributes.",
+		"image": "ipfs://Qmbvf8HqLv5BHheXDucQFXmYP9byEKfZwnXKwaZCqpkt6h/1285.png",
+		"dna": "216935207620c9781a9ada54b1a47d581013d96c",
+		"id": 1285,
+		"date": 1646925847094,
+		"attributes": [
+			{
+				"trait_type": "Background",
+				"value": "Desert"
+			},
+			{
+				"trait_type": "Fur and Tail",
+				"value": "Black"
+			},
+			{
+				"trait_type": "Breed",
+				"value": "Common"
+			},
+			{
+				"trait_type": "Skin",
+				"value": "Common"
+			},
+			{
+				"trait_type": "Patterns",
+				"value": "Stripes"
+			},
+			{
+				"trait_type": "Flags",
+				"value": "Canada"
+			},
+			{
+				"trait_type": "Head",
+				"value": "Tophat"
+			},
+			{
+				"trait_type": "Mouth",
+				"value": "Red Lipstick"
+			},
+			{
+				"trait_type": "Neck",
+				"value": "None"
+			},
+			{
+				"trait_type": "Pets",
+				"value": "None"
+			},
+			{
+				"trait_type": "Poop",
+				"value": "none"
+			}
+		],
+		"compiler": "HashLips Art Engine"
+	},
+	{
+		"name": "Telpacas #1286",
+		"description": "Telpacas is a generative collection of 10,000 tokens that live on the Telos EVM blockchain. Each Telpaca is unique. A few have very rare and surprising attributes.",
+		"image": "ipfs://Qmbvf8HqLv5BHheXDucQFXmYP9byEKfZwnXKwaZCqpkt6h/1286.png",
+		"dna": "7a2f5ad732b3c5bb7f7c3f0dda7e4dd3ec293473",
+		"id": 1286,
+		"date": 1646924681944,
+		"attributes": [
+			{
+				"trait_type": "Background",
+				"value": "Plateau"
+			},
+			{
+				"trait_type": "Fur and Tail",
+				"value": "Black"
+			},
+			{
+				"trait_type": "Breed",
+				"value": "Common"
+			},
+			{
+				"trait_type": "Skin",
+				"value": "Common"
+			},
+			{
+				"trait_type": "Patterns",
+				"value": "Streaks"
+			},
+			{
+				"trait_type": "Flags",
+				"value": "None"
+			},
+			{
+				"trait_type": "Head",
+				"value": "None"
+			},
+			{
+				"trait_type": "Facial Hair",
+				"value": "Brown Goatie"
+			},
+			{
+				"trait_type": "Neck",
+				"value": "None"
+			},
+			{
+				"trait_type": "Pets",
+				"value": "None"
+			},
+			{
+				"trait_type": "Poop",
+				"value": "none"
+			}
+		],
+		"compiler": "HashLips Art Engine"
+	},
+	{
+		"name": "Telpacas #1287",
+		"description": "Telpacas is a generative collection of 10,000 tokens that live on the Telos EVM blockchain. Each Telpaca is unique. A few have very rare and surprising attributes.",
+		"image": "ipfs://Qmbvf8HqLv5BHheXDucQFXmYP9byEKfZwnXKwaZCqpkt6h/1287.png",
+		"dna": "f42defa0c92f23cd00b8ae92a2b6fc1dc21cea03",
+		"id": 1287,
+		"date": 1646924568853,
+		"attributes": [
+			{
+				"trait_type": "Background",
+				"value": "Forest"
+			},
+			{
+				"trait_type": "Fur and Tail",
+				"value": "Brown"
+			},
+			{
+				"trait_type": "Breed",
+				"value": "Common"
+			},
+			{
+				"trait_type": "Skin",
+				"value": "Mole"
+			},
+			{
+				"trait_type": "Patterns",
+				"value": "Common"
+			},
+			{
+				"trait_type": "Flags",
+				"value": "None"
+			},
+			{
+				"trait_type": "Head",
+				"value": "Tophat"
+			},
+			{
+				"trait_type": "Facial Hair",
+				"value": "Clean Shaven"
+			},
+			{
+				"trait_type": "Neck",
+				"value": "None"
+			},
+			{
+				"trait_type": "Pets",
+				"value": "None"
+			},
+			{
+				"trait_type": "Poop",
+				"value": "none"
+			}
+		],
+		"compiler": "HashLips Art Engine"
+	},
+	{
+		"name": "Telpacas #1288",
+		"description": "Telpacas is a generative collection of 10,000 tokens that live on the Telos EVM blockchain. Each Telpaca is unique. A few have very rare and surprising attributes.",
+		"image": "ipfs://Qmbvf8HqLv5BHheXDucQFXmYP9byEKfZwnXKwaZCqpkt6h/1288.png",
+		"dna": "e70334e711d7f780e6846c83c3591fd52ebb66ec",
+		"id": 1288,
+		"date": 1646924931710,
+		"attributes": [
+			{
+				"trait_type": "Background",
+				"value": "Fence"
+			},
+			{
+				"trait_type": "Fur and Tail",
+				"value": "Brown"
+			},
+			{
+				"trait_type": "Breed",
+				"value": "Common"
+			},
+			{
+				"trait_type": "Patterns",
+				"value": "Stripes"
+			},
+			{
+				"trait_type": "Flags",
+				"value": "None"
+			},
+			{
+				"trait_type": "Glasses",
+				"value": "Hipster Glasses"
+			},
+			{
+				"trait_type": "Head",
+				"value": "Bullseye"
+			},
+			{
+				"trait_type": "Facial Hair",
+				"value": "Clean Shaven"
+			},
+			{
+				"trait_type": "Neck",
+				"value": "None"
+			},
+			{
+				"trait_type": "Pets",
+				"value": "None"
+			},
+			{
+				"trait_type": "Poop",
+				"value": "none"
+			}
+		],
+		"compiler": "HashLips Art Engine"
+	},
+	{
+		"name": "Telpacas #1289",
+		"description": "Telpacas is a generative collection of 10,000 tokens that live on the Telos EVM blockchain. Each Telpaca is unique. A few have very rare and surprising attributes.",
+		"image": "ipfs://Qmbvf8HqLv5BHheXDucQFXmYP9byEKfZwnXKwaZCqpkt6h/1289.png",
+		"dna": "5eefd07e4c872540dfff2ef853005689d4ec0b93",
+		"id": 1289,
+		"date": 1646926279332,
+		"attributes": [
+			{
+				"trait_type": "Background",
+				"value": "Plateau"
+			},
+			{
+				"trait_type": "Fur and Tail",
+				"value": "Standard"
+			},
+			{
+				"trait_type": "Breed",
+				"value": "Common"
+			},
+			{
+				"trait_type": "Skin",
+				"value": "Common"
+			},
+			{
+				"trait_type": "Patterns",
+				"value": "Common"
+			},
+			{
+				"trait_type": "Flags",
+				"value": "None"
+			},
+			{
+				"trait_type": "Head",
+				"value": "Bandana"
+			},
+			{
+				"trait_type": "Mouth",
+				"value": "Red Lipstick"
+			},
+			{
+				"trait_type": "Neck",
+				"value": "Pink Bandana"
+			},
+			{
+				"trait_type": "Pets",
+				"value": "None"
+			},
+			{
+				"trait_type": "Poop",
+				"value": "none"
+			}
+		],
+		"compiler": "HashLips Art Engine"
+	},
+	{
+		"name": "Telpacas #1290",
+		"description": "Telpacas is a generative collection of 10,000 tokens that live on the Telos EVM blockchain. Each Telpaca is unique. A few have very rare and surprising attributes.",
+		"image": "ipfs://Qmbvf8HqLv5BHheXDucQFXmYP9byEKfZwnXKwaZCqpkt6h/1290.png",
+		"dna": "9381256b19fda3995b8375662e3b9ba0faf71896",
+		"id": 1290,
+		"date": 1646926263769,
+		"attributes": [
+			{
+				"trait_type": "Background",
+				"value": "Mountains"
+			},
+			{
+				"trait_type": "Fur and Tail",
+				"value": "Brown"
+			},
+			{
+				"trait_type": "Breed",
+				"value": "Common"
+			},
+			{
+				"trait_type": "Skin",
+				"value": "Common"
+			},
+			{
+				"trait_type": "Patterns",
+				"value": "Stripes"
+			},
+			{
+				"trait_type": "Flags",
+				"value": "None"
+			},
+			{
+				"trait_type": "Head",
+				"value": "Crown"
+			},
+			{
+				"trait_type": "Mouth",
+				"value": "Red Lipstick"
+			},
+			{
+				"trait_type": "Neck",
+				"value": "Bowtie"
+			},
+			{
+				"trait_type": "Pets",
+				"value": "None"
+			},
+			{
+				"trait_type": "Poop",
+				"value": "none"
+			}
+		],
+		"compiler": "HashLips Art Engine"
+	},
+	{
+		"name": "Telpacas #1291",
+		"description": "Telpacas is a generative collection of 10,000 tokens that live on the Telos EVM blockchain. Each Telpaca is unique. A few have very rare and surprising attributes.",
+		"image": "ipfs://Qmbvf8HqLv5BHheXDucQFXmYP9byEKfZwnXKwaZCqpkt6h/1291.png",
+		"dna": "955674c2630b13f3b2e3fe1bca84f1f167ad67fd",
+		"id": 1291,
+		"date": 1646924418481,
+		"attributes": [
+			{
+				"trait_type": "Background",
+				"value": "Fence"
+			},
+			{
+				"trait_type": "Fur and Tail",
+				"value": "Standard"
+			},
+			{
+				"trait_type": "Breed",
+				"value": "Common"
+			},
+			{
+				"trait_type": "Skin",
+				"value": "Blush"
+			},
+			{
+				"trait_type": "Patterns",
+				"value": "Large Spots"
+			},
+			{
+				"trait_type": "Flags",
+				"value": "None"
+			},
+			{
+				"trait_type": "Head",
+				"value": "Cowboy Hat"
+			},
+			{
+				"trait_type": "Facial Hair",
+				"value": "Clean Shaven"
+			},
+			{
+				"trait_type": "Neck",
+				"value": "Bowtie"
+			},
+			{
+				"trait_type": "Pets",
+				"value": "None"
+			},
+			{
+				"trait_type": "Poop",
+				"value": "none"
+			}
+		],
+		"compiler": "HashLips Art Engine"
+	},
+	{
+		"name": "Telpacas #1292",
+		"description": "Telpacas is a generative collection of 10,000 tokens that live on the Telos EVM blockchain. Each Telpaca is unique. A few have very rare and surprising attributes.",
+		"image": "ipfs://Qmbvf8HqLv5BHheXDucQFXmYP9byEKfZwnXKwaZCqpkt6h/1292.png",
+		"dna": "f60b1211c5086ad0c792922850aee27e7300d302",
+		"id": 1292,
+		"date": 1646924709587,
+		"attributes": [
+			{
+				"trait_type": "Background",
+				"value": "Fence"
+			},
+			{
+				"trait_type": "Fur and Tail",
+				"value": "Fire Tailed Small"
+			},
+			{
+				"trait_type": "Breed",
+				"value": "Common"
+			},
+			{
+				"trait_type": "Patterns",
+				"value": "Large Spots"
+			},
+			{
+				"trait_type": "Flags",
+				"value": "None"
+			},
+			{
+				"trait_type": "Glasses",
+				"value": "None"
+			},
+			{
+				"trait_type": "Head",
+				"value": "Rainbow Unicorn"
+			},
+			{
+				"trait_type": "Facial Hair",
+				"value": "Clean Shaven"
+			},
+			{
+				"trait_type": "Neck",
+				"value": "Violet Bandana"
+			},
+			{
+				"trait_type": "Pets",
+				"value": "squirrel"
+			},
+			{
+				"trait_type": "Poop",
+				"value": "none"
+			}
+		],
+		"compiler": "HashLips Art Engine"
+	},
+	{
+		"name": "Telpacas #1293",
+		"description": "Telpacas is a generative collection of 10,000 tokens that live on the Telos EVM blockchain. Each Telpaca is unique. A few have very rare and surprising attributes.",
+		"image": "ipfs://Qmbvf8HqLv5BHheXDucQFXmYP9byEKfZwnXKwaZCqpkt6h/1293.png",
+		"dna": "70543ed3f1d81c4cb7a94be08edfb13fce8f5a2e",
+		"id": 1293,
+		"date": 1646926502379,
+		"attributes": [
+			{
+				"trait_type": "Background",
+				"value": "Fence"
+			},
+			{
+				"trait_type": "Fur and Tail",
+				"value": "Standard"
+			},
+			{
+				"trait_type": "Breed",
+				"value": "Common"
+			},
+			{
+				"trait_type": "Skin",
+				"value": "Common"
+			},
+			{
+				"trait_type": "Patterns",
+				"value": "Large Spots"
+			},
+			{
+				"trait_type": "Flags",
+				"value": "None"
+			},
+			{
+				"trait_type": "Head",
+				"value": "Straight Hair"
+			},
+			{
+				"trait_type": "Mouth",
+				"value": "Red Lipstick"
+			},
+			{
+				"trait_type": "Neck",
+				"value": "None"
+			},
+			{
+				"trait_type": "Pets",
+				"value": "None"
+			},
+			{
+				"trait_type": "Poop",
+				"value": "none"
+			}
+		],
+		"compiler": "HashLips Art Engine"
+	},
+	{
+		"name": "Telpacas #1294",
+		"description": "Telpacas is a generative collection of 10,000 tokens that live on the Telos EVM blockchain. Each Telpaca is unique. A few have very rare and surprising attributes.",
+		"image": "ipfs://Qmbvf8HqLv5BHheXDucQFXmYP9byEKfZwnXKwaZCqpkt6h/1294.png",
+		"dna": "7d9f5fc343910616fa258273224da518b3249a37",
+		"id": 1294,
+		"date": 1646925315161,
+		"attributes": [
+			{
+				"trait_type": "Background",
+				"value": "Mountains"
+			},
+			{
+				"trait_type": "Fur and Tail",
+				"value": "Rainbow TailedLarge "
+			},
+			{
+				"trait_type": "Skin",
+				"value": "Common"
+			},
+			{
+				"trait_type": "Expressions",
+				"value": "Neutral"
+			},
+			{
+				"trait_type": "Eyes",
+				"value": "Wink"
+			},
+			{
+				"trait_type": "Patterns",
+				"value": "Stripes"
+			},
+			{
+				"trait_type": "Flags",
+				"value": "Spain"
+			},
+			{
+				"trait_type": "Head",
+				"value": "Pom Pom Beanie"
+			},
+			{
+				"trait_type": "Mouth Accessories",
+				"value": "Fancy Mask"
+			},
+			{
+				"trait_type": "Neck",
+				"value": "Pink Bandana"
+			},
+			{
+				"trait_type": "Pets",
+				"value": "None"
+			},
+			{
+				"trait_type": "Poop",
+				"value": "none"
+			}
+		],
+		"compiler": "HashLips Art Engine"
+	},
+	{
+		"name": "Telpacas #1295",
+		"description": "Telpacas is a generative collection of 10,000 tokens that live on the Telos EVM blockchain. Each Telpaca is unique. A few have very rare and surprising attributes.",
+		"image": "ipfs://Qmbvf8HqLv5BHheXDucQFXmYP9byEKfZwnXKwaZCqpkt6h/1295.png",
+		"dna": "c183d49fdb61bea04ca1392993814dd0d1acfb45",
+		"id": 1295,
+		"date": 1646924830728,
+		"attributes": [
+			{
+				"trait_type": "Background",
+				"value": "Plateau"
+			},
+			{
+				"trait_type": "Fur and Tail",
+				"value": "Black"
+			},
+			{
+				"trait_type": "Breed",
+				"value": "Common"
+			},
+			{
+				"trait_type": "Patterns",
+				"value": "Stripes"
+			},
+			{
+				"trait_type": "Flags",
+				"value": "Japan"
+			},
+			{
+				"trait_type": "Glasses",
+				"value": "Orange Sunglasses"
+			},
+			{
+				"trait_type": "Head",
+				"value": "Helicopter Cap"
+			},
+			{
+				"trait_type": "Facial Hair",
+				"value": "Clean Shaven"
+			},
+			{
+				"trait_type": "Neck",
+				"value": "None"
+			},
+			{
+				"trait_type": "Pets",
+				"value": "None"
+			},
+			{
+				"trait_type": "Poop",
+				"value": "none"
+			}
+		],
+		"compiler": "HashLips Art Engine"
+	},
+	{
+		"name": "Telpacas #1296",
+		"description": "Telpacas is a generative collection of 10,000 tokens that live on the Telos EVM blockchain. Each Telpaca is unique. A few have very rare and surprising attributes.",
+		"image": "ipfs://Qmbvf8HqLv5BHheXDucQFXmYP9byEKfZwnXKwaZCqpkt6h/1296.png",
+		"dna": "19825079ee85bcb145b924070605079e6e32864d",
+		"id": 1296,
+		"date": 1646925381833,
+		"attributes": [
+			{
+				"trait_type": "Background",
+				"value": "Snowcapped Mountains"
+			},
+			{
+				"trait_type": "Fur and Tail",
+				"value": "Standard"
+			},
+			{
+				"trait_type": "Skin",
+				"value": "Blush"
+			},
+			{
+				"trait_type": "Expressions",
+				"value": "Frown"
+			},
+			{
+				"trait_type": "Eyes",
+				"value": "Look Away"
+			},
+			{
+				"trait_type": "Patterns",
+				"value": "Large Spots"
+			},
+			{
+				"trait_type": "Flags",
+				"value": "None"
+			},
+			{
+				"trait_type": "Head",
+				"value": "Tophat"
+			},
+			{
+				"trait_type": "Mouth Accessories",
+				"value": "None"
+			},
+			{
+				"trait_type": "Neck",
+				"value": "Choker"
+			},
+			{
+				"trait_type": "Pets",
+				"value": "None"
+			},
+			{
+				"trait_type": "Poop",
+				"value": "Rainbow"
+			}
+		],
+		"compiler": "HashLips Art Engine"
+	},
+	{
+		"name": "Telpacas #1297",
+		"description": "Telpacas is a generative collection of 10,000 tokens that live on the Telos EVM blockchain. Each Telpaca is unique. A few have very rare and surprising attributes.",
+		"image": "ipfs://Qmbvf8HqLv5BHheXDucQFXmYP9byEKfZwnXKwaZCqpkt6h/1297.png",
+		"dna": "d168b8679f5c62fc45186f3c29515bc8b1c14b5d",
+		"id": 1297,
+		"date": 1646924567885,
+		"attributes": [
+			{
+				"trait_type": "Background",
+				"value": "Snowcapped Mountains"
+			},
+			{
+				"trait_type": "Fur and Tail",
+				"value": "Fire Tailed Large"
+			},
+			{
+				"trait_type": "Breed",
+				"value": "Common"
+			},
+			{
+				"trait_type": "Skin",
+				"value": "Common"
+			},
+			{
+				"trait_type": "Patterns",
+				"value": "Spots"
+			},
+			{
+				"trait_type": "Flags",
+				"value": "None"
+			},
+			{
+				"trait_type": "Head",
+				"value": "Fedora"
+			},
+			{
+				"trait_type": "Facial Hair",
+				"value": "Clean Shaven"
+			},
+			{
+				"trait_type": "Neck",
+				"value": "Gold Cross"
+			},
+			{
+				"trait_type": "Pets",
+				"value": "None"
+			},
+			{
+				"trait_type": "Poop",
+				"value": "Brown"
+			}
+		],
+		"compiler": "HashLips Art Engine"
+	},
+	{
+		"name": "Telpacas #1298",
+		"description": "Telpacas is a generative collection of 10,000 tokens that live on the Telos EVM blockchain. Each Telpaca is unique. A few have very rare and surprising attributes.",
+		"image": "ipfs://Qmbvf8HqLv5BHheXDucQFXmYP9byEKfZwnXKwaZCqpkt6h/1298.png",
+		"dna": "4efb50e16f1621911eb064600dc3f24987dcd2c8",
+		"id": 1298,
+		"date": 1646926700794,
+		"attributes": [
+			{
+				"trait_type": "Background",
+				"value": "Fence"
+			},
+			{
+				"trait_type": "Fur and Tail",
+				"value": "Standard"
+			},
+			{
+				"trait_type": "Breed",
+				"value": "Common"
+			},
+			{
+				"trait_type": "Skin",
+				"value": "Mole"
+			},
+			{
+				"trait_type": "Patterns",
+				"value": "Common"
+			},
+			{
+				"trait_type": "Flags",
+				"value": "None"
+			},
+			{
+				"trait_type": "Head",
+				"value": "Mullet"
+			},
+			{
+				"trait_type": "Mouth",
+				"value": "Red Lipstick"
+			},
+			{
+				"trait_type": "Neck",
+				"value": "None"
+			},
+			{
+				"trait_type": "Pets",
+				"value": "None"
+			},
+			{
+				"trait_type": "Poop",
+				"value": "none"
+			}
+		],
+		"compiler": "HashLips Art Engine"
+	},
+	{
+		"name": "Telpacas #1299",
+		"description": "Telpacas is a generative collection of 10,000 tokens that live on the Telos EVM blockchain. Each Telpaca is unique. A few have very rare and surprising attributes.",
+		"image": "ipfs://Qmbvf8HqLv5BHheXDucQFXmYP9byEKfZwnXKwaZCqpkt6h/1299.png",
+		"dna": "25bc56f76cfd5fc40b8c4ec3e88a34bab9c4f2db",
+		"id": 1299,
+		"date": 1646924304467,
+		"attributes": [
+			{
+				"trait_type": "Background",
+				"value": "Mountains"
+			},
+			{
+				"trait_type": "Fur and Tail",
+				"value": "Fire Tailed Large"
+			},
+			{
+				"trait_type": "Breed",
+				"value": "Common"
+			},
+			{
+				"trait_type": "Skin",
+				"value": "Common"
+			},
+			{
+				"trait_type": "Patterns",
+				"value": "Stripes"
+			},
+			{
+				"trait_type": "Flags",
+				"value": "None"
+			},
+			{
+				"trait_type": "Head",
+				"value": "Black Wind Hair"
+			},
+			{
+				"trait_type": "Facial Hair",
+				"value": "Clean Shaven"
+			},
+			{
+				"trait_type": "Neck",
+				"value": "Violet Bandana"
+			},
+			{
+				"trait_type": "Pets",
+				"value": "None"
+			},
+			{
+				"trait_type": "Poop",
+				"value": "none"
+			}
+		],
+		"compiler": "HashLips Art Engine"
+	},
+	{
+		"name": "Telpacas #1300",
+		"description": "Telpacas is a generative collection of 10,000 tokens that live on the Telos EVM blockchain. Each Telpaca is unique. A few have very rare and surprising attributes.",
+		"image": "ipfs://Qmbvf8HqLv5BHheXDucQFXmYP9byEKfZwnXKwaZCqpkt6h/1300.png",
+		"dna": "8df898f6018cbed6c9e409ce7ab65d8557d26d91",
+		"id": 1300,
+		"date": 1646924994551,
+		"attributes": [
+			{
+				"trait_type": "Background",
+				"value": "Forest"
+			},
+			{
+				"trait_type": "Fur and Tail",
+				"value": "Fire Tailed Small"
+			},
+			{
+				"trait_type": "Breed",
+				"value": "Common"
+			},
+			{
+				"trait_type": "Patterns",
+				"value": "Common"
+			},
+			{
+				"trait_type": "Flags",
+				"value": "None"
+			},
+			{
+				"trait_type": "Glasses",
+				"value": "Small Shades"
+			},
+			{
+				"trait_type": "Head",
+				"value": "Chullo"
+			},
+			{
+				"trait_type": "Facial Hair",
+				"value": "Brown Goatie"
+			},
+			{
+				"trait_type": "Neck",
+				"value": "None"
+			},
+			{
+				"trait_type": "Pets",
+				"value": "None"
+			},
+			{
+				"trait_type": "Poop",
+				"value": "none"
+			}
+		],
+		"compiler": "HashLips Art Engine"
+	},
+	{
+		"name": "Telpacas #1301",
+		"description": "Telpacas is a generative collection of 10,000 tokens that live on the Telos EVM blockchain. Each Telpaca is unique. A few have very rare and surprising attributes.",
+		"image": "ipfs://Qmbvf8HqLv5BHheXDucQFXmYP9byEKfZwnXKwaZCqpkt6h/1301.png",
+		"dna": "370108fd5d3408357bbe5a8fabb22544c2bf193c",
+		"id": 1301,
+		"date": 1646926261509,
+		"attributes": [
+			{
+				"trait_type": "Background",
+				"value": "Desert"
+			},
+			{
+				"trait_type": "Fur and Tail",
+				"value": "Standard"
+			},
+			{
+				"trait_type": "Breed",
+				"value": "Common"
+			},
+			{
+				"trait_type": "Skin",
+				"value": "Common"
+			},
+			{
+				"trait_type": "Patterns",
+				"value": "Stripes"
+			},
+			{
+				"trait_type": "Flags",
+				"value": "None"
+			},
+			{
+				"trait_type": "Head",
+				"value": "Party Hat"
+			},
+			{
+				"trait_type": "Mouth",
+				"value": "Red Lipstick"
+			},
+			{
+				"trait_type": "Neck",
+				"value": "None"
+			},
+			{
+				"trait_type": "Pets",
+				"value": "None"
+			},
+			{
+				"trait_type": "Poop",
+				"value": "none"
+			}
+		],
+		"compiler": "HashLips Art Engine"
+	},
+	{
+		"name": "Telpacas #1302",
+		"description": "Telpacas is a generative collection of 10,000 tokens that live on the Telos EVM blockchain. Each Telpaca is unique. A few have very rare and surprising attributes.",
+		"image": "ipfs://Qmbvf8HqLv5BHheXDucQFXmYP9byEKfZwnXKwaZCqpkt6h/1302.png",
+		"dna": "eeb58c4267c7b8d09ba87f87bdc2fcae2e2121c8",
+		"id": 1302,
+		"date": 1646925565184,
+		"attributes": [
+			{
+				"trait_type": "Background",
+				"value": "Forest"
+			},
+			{
+				"trait_type": "Fur and Tail",
+				"value": "Standard"
+			},
+			{
+				"trait_type": "Skin",
+				"value": "Mole"
+			},
+			{
+				"trait_type": "Expressions",
+				"value": "Frown"
+			},
+			{
+				"trait_type": "Eyes",
+				"value": "Straight Look"
+			},
+			{
+				"trait_type": "Patterns",
+				"value": "Stripes"
+			},
+			{
+				"trait_type": "Flags",
+				"value": "None"
+			},
+			{
+				"trait_type": "Head",
+				"value": "Crown"
+			},
+			{
+				"trait_type": "Mouth Accessories",
+				"value": "Carrot"
+			},
+			{
+				"trait_type": "Neck",
+				"value": "Bowtie"
+			},
+			{
+				"trait_type": "Pets",
+				"value": "squirrel"
+			},
+			{
+				"trait_type": "Poop",
+				"value": "Brown"
+			}
+		],
+		"compiler": "HashLips Art Engine"
+	},
+	{
+		"name": "Telpacas #1303",
+		"description": "Telpacas is a generative collection of 10,000 tokens that live on the Telos EVM blockchain. Each Telpaca is unique. A few have very rare and surprising attributes.",
+		"image": "ipfs://Qmbvf8HqLv5BHheXDucQFXmYP9byEKfZwnXKwaZCqpkt6h/1303.png",
+		"dna": "15e416b573eb77ca242e91560ecd69b4e7595bc0",
+		"id": 1303,
+		"date": 1646924416619,
+		"attributes": [
+			{
+				"trait_type": "Background",
+				"value": "Snowcapped Mountains"
+			},
+			{
+				"trait_type": "Fur and Tail",
+				"value": "White"
+			},
+			{
+				"trait_type": "Breed",
+				"value": "Common"
+			},
+			{
+				"trait_type": "Skin",
+				"value": "Common"
+			},
+			{
+				"trait_type": "Patterns",
+				"value": "Curls"
+			},
+			{
+				"trait_type": "Flags",
+				"value": "None"
+			},
+			{
+				"trait_type": "Head",
+				"value": "Purple Wild Hair"
+			},
+			{
+				"trait_type": "Facial Hair",
+				"value": "Clean Shaven"
+			},
+			{
+				"trait_type": "Neck",
+				"value": "None"
+			},
+			{
+				"trait_type": "Pets",
+				"value": "None"
+			},
+			{
+				"trait_type": "Poop",
+				"value": "none"
+			}
+		],
+		"compiler": "HashLips Art Engine"
+	},
+	{
+		"name": "Telpacas #1304",
+		"description": "Telpacas is a generative collection of 10,000 tokens that live on the Telos EVM blockchain. Each Telpaca is unique. A few have very rare and surprising attributes.",
+		"image": "ipfs://Qmbvf8HqLv5BHheXDucQFXmYP9byEKfZwnXKwaZCqpkt6h/1304.png",
+		"dna": "73962eac08da70f7db83edad647a974d4e0061e4",
+		"id": 1304,
+		"date": 1646926696755,
+		"attributes": [
+			{
+				"trait_type": "Background",
+				"value": "Plateau"
+			},
+			{
+				"trait_type": "Fur and Tail",
+				"value": "Brown"
+			},
+			{
+				"trait_type": "Breed",
+				"value": "Common"
+			},
+			{
+				"trait_type": "Skin",
+				"value": "Common"
+			},
+			{
+				"trait_type": "Patterns",
+				"value": "Common"
+			},
+			{
+				"trait_type": "Flags",
+				"value": "None"
+			},
+			{
+				"trait_type": "Head",
+				"value": "Party Hat"
+			},
+			{
+				"trait_type": "Mouth",
+				"value": "Red Lipstick"
+			},
+			{
+				"trait_type": "Neck",
+				"value": "None"
+			},
+			{
+				"trait_type": "Pets",
+				"value": "Parrot"
+			},
+			{
+				"trait_type": "Poop",
+				"value": "none"
+			}
+		],
+		"compiler": "HashLips Art Engine"
+	},
+	{
+		"name": "Telpacas #1305",
+		"description": "Telpacas is a generative collection of 10,000 tokens that live on the Telos EVM blockchain. Each Telpaca is unique. A few have very rare and surprising attributes.",
+		"image": "ipfs://Qmbvf8HqLv5BHheXDucQFXmYP9byEKfZwnXKwaZCqpkt6h/1305.png",
+		"dna": "d4732108ccb24ca81465c85c26f2cf7d0414c759",
+		"id": 1305,
+		"date": 1646926623113,
+		"attributes": [
+			{
+				"trait_type": "Background",
+				"value": "Fence"
+			},
+			{
+				"trait_type": "Fur and Tail",
+				"value": "Flashy"
+			},
+			{
+				"trait_type": "Breed",
+				"value": "Common"
+			},
+			{
+				"trait_type": "Skin",
+				"value": "Mole"
+			},
+			{
+				"trait_type": "Patterns",
+				"value": "Common"
+			},
+			{
+				"trait_type": "Flags",
+				"value": "None"
+			},
+			{
+				"trait_type": "Head",
+				"value": "Purple Wild Hair"
+			},
+			{
+				"trait_type": "Mouth",
+				"value": "Red Lipstick"
+			},
+			{
+				"trait_type": "Neck",
+				"value": "None"
+			},
+			{
+				"trait_type": "Pets",
+				"value": "None"
+			},
+			{
+				"trait_type": "Poop",
+				"value": "none"
+			}
+		],
+		"compiler": "HashLips Art Engine"
+	},
+	{
+		"name": "Telpacas #1306",
+		"description": "Telpacas is a generative collection of 10,000 tokens that live on the Telos EVM blockchain. Each Telpaca is unique. A few have very rare and surprising attributes.",
+		"image": "ipfs://Qmbvf8HqLv5BHheXDucQFXmYP9byEKfZwnXKwaZCqpkt6h/1306.png",
+		"dna": "70f60e01b2aa030d94698743049ac68fc3e6facc",
+		"id": 1306,
+		"date": 1646925364428,
+		"attributes": [
+			{
+				"trait_type": "Background",
+				"value": "Snowcapped Mountains"
+			},
+			{
+				"trait_type": "Fur and Tail",
+				"value": "Brown"
+			},
+			{
+				"trait_type": "Skin",
+				"value": "Common"
+			},
+			{
+				"trait_type": "Expressions",
+				"value": "Smirk"
+			},
+			{
+				"trait_type": "Eyes",
+				"value": "Crossed eyes"
+			},
+			{
+				"trait_type": "Patterns",
+				"value": "Streaks"
+			},
+			{
+				"trait_type": "Flags",
+				"value": "Korea"
+			},
+			{
+				"trait_type": "Head",
+				"value": "Rainbow Unicorn"
+			},
+			{
+				"trait_type": "Mouth Accessories",
+				"value": "None"
+			},
+			{
+				"trait_type": "Neck",
+				"value": "None"
+			},
+			{
+				"trait_type": "Pets",
+				"value": "None"
+			},
+			{
+				"trait_type": "Poop",
+				"value": "none"
+			}
+		],
+		"compiler": "HashLips Art Engine"
+	},
+	{
+		"name": "Telpacas #1307",
+		"description": "Telpacas is a generative collection of 10,000 tokens that live on the Telos EVM blockchain. Each Telpaca is unique. A few have very rare and surprising attributes.",
+		"image": "ipfs://Qmbvf8HqLv5BHheXDucQFXmYP9byEKfZwnXKwaZCqpkt6h/1307.png",
+		"dna": "11744cd335f5de214e1cc4db8db65155631f2a03",
+		"id": 1307,
+		"date": 1646924653409,
+		"attributes": [
+			{
+				"trait_type": "Background",
+				"value": "Fence"
+			},
+			{
+				"trait_type": "Fur and Tail",
+				"value": "Brown"
+			},
+			{
+				"trait_type": "Breed",
+				"value": "Common"
+			},
+			{
+				"trait_type": "Skin",
+				"value": "Common"
+			},
+			{
+				"trait_type": "Patterns",
+				"value": "Common"
+			},
+			{
+				"trait_type": "Flags",
+				"value": "None"
+			},
+			{
+				"trait_type": "Head",
+				"value": "Gold Unicorn"
+			},
+			{
+				"trait_type": "Facial Hair",
+				"value": "Clean Shaven"
+			},
+			{
+				"trait_type": "Neck",
+				"value": "Violet Bandana"
+			},
+			{
+				"trait_type": "Pets",
+				"value": "None"
+			},
+			{
+				"trait_type": "Poop",
+				"value": "none"
+			}
+		],
+		"compiler": "HashLips Art Engine"
+	},
+	{
+		"name": "Telpacas #1308",
+		"description": "Telpacas is a generative collection of 10,000 tokens that live on the Telos EVM blockchain. Each Telpaca is unique. A few have very rare and surprising attributes.",
+		"image": "ipfs://Qmbvf8HqLv5BHheXDucQFXmYP9byEKfZwnXKwaZCqpkt6h/1308.png",
+		"dna": "6428ac863794959911a932c368ed6b353b979489",
+		"id": 1308,
+		"date": 1646925444782,
+		"attributes": [
+			{
+				"trait_type": "Background",
+				"value": "Fence"
+			},
+			{
+				"trait_type": "Fur and Tail",
+				"value": "Black"
+			},
+			{
+				"trait_type": "Skin",
+				"value": "Common"
+			},
+			{
+				"trait_type": "Expressions",
+				"value": "Neutral"
+			},
+			{
+				"trait_type": "Eyes",
+				"value": "Look Away"
+			},
+			{
+				"trait_type": "Patterns",
+				"value": "Socks"
+			},
+			{
+				"trait_type": "Flags",
+				"value": "None"
+			},
+			{
+				"trait_type": "Head",
+				"value": "None"
+			},
+			{
+				"trait_type": "Mouth Accessories",
+				"value": "None"
+			},
+			{
+				"trait_type": "Neck",
+				"value": "Gold Cross"
+			},
+			{
+				"trait_type": "Pets",
+				"value": "None"
+			},
+			{
+				"trait_type": "Poop",
+				"value": "none"
+			}
+		],
+		"compiler": "HashLips Art Engine"
+	},
+	{
+		"name": "Telpacas #1309",
+		"description": "Telpacas is a generative collection of 10,000 tokens that live on the Telos EVM blockchain. Each Telpaca is unique. A few have very rare and surprising attributes.",
+		"image": "ipfs://Qmbvf8HqLv5BHheXDucQFXmYP9byEKfZwnXKwaZCqpkt6h/1309.png",
+		"dna": "89b64709df470e087b50cbcf2135063e183ffca3",
+		"id": 1309,
+		"date": 1646924723139,
+		"attributes": [
+			{
+				"trait_type": "Background",
+				"value": "Mountains"
+			},
+			{
+				"trait_type": "Fur and Tail",
+				"value": "Black"
+			},
+			{
+				"trait_type": "Breed",
+				"value": "Common"
+			},
+			{
+				"trait_type": "Patterns",
+				"value": "Large Spots"
+			},
+			{
+				"trait_type": "Flags",
+				"value": "None"
+			},
+			{
+				"trait_type": "Glasses",
+				"value": "Small Shades"
+			},
+			{
+				"trait_type": "Head",
+				"value": "Gold Unicorn"
+			},
+			{
+				"trait_type": "Facial Hair",
+				"value": "Clean Shaven"
+			},
+			{
+				"trait_type": "Neck",
+				"value": "None"
+			},
+			{
+				"trait_type": "Pets",
+				"value": "None"
+			},
+			{
+				"trait_type": "Poop",
+				"value": "none"
+			}
+		],
+		"compiler": "HashLips Art Engine"
+	},
+	{
+		"name": "Telpacas #1310",
+		"description": "Telpacas is a generative collection of 10,000 tokens that live on the Telos EVM blockchain. Each Telpaca is unique. A few have very rare and surprising attributes.",
+		"image": "ipfs://Qmbvf8HqLv5BHheXDucQFXmYP9byEKfZwnXKwaZCqpkt6h/1310.png",
+		"dna": "60e03c3a011f32c3308635d17aa598bd1753dc7a",
+		"id": 1310,
+		"date": 1646924690859,
+		"attributes": [
+			{
+				"trait_type": "Background",
+				"value": "Desert"
+			},
+			{
+				"trait_type": "Fur and Tail",
+				"value": "Black"
+			},
+			{
+				"trait_type": "Breed",
+				"value": "Common"
+			},
+			{
+				"trait_type": "Skin",
+				"value": "Common"
+			},
+			{
+				"trait_type": "Patterns",
+				"value": "Stripes"
+			},
+			{
+				"trait_type": "Flags",
+				"value": "None"
+			},
+			{
+				"trait_type": "Head",
+				"value": "Pom Pom Beanie"
+			},
+			{
+				"trait_type": "Facial Hair",
+				"value": "Moustache5"
+			},
+			{
+				"trait_type": "Neck",
+				"value": "Tie"
+			},
+			{
+				"trait_type": "Pets",
+				"value": "None"
+			},
+			{
+				"trait_type": "Poop",
+				"value": "none"
+			}
+		],
+		"compiler": "HashLips Art Engine"
+	},
+	{
+		"name": "Telpacas #1311",
+		"description": "Telpacas is a generative collection of 10,000 tokens that live on the Telos EVM blockchain. Each Telpaca is unique. A few have very rare and surprising attributes.",
+		"image": "ipfs://Qmbvf8HqLv5BHheXDucQFXmYP9byEKfZwnXKwaZCqpkt6h/1311.png",
+		"dna": "88133f2c89c03880e1ecbd88031b39ba96c0c44a",
+		"id": 1311,
+		"date": 1646924722179,
+		"attributes": [
+			{
+				"trait_type": "Background",
+				"value": "Fence"
+			},
+			{
+				"trait_type": "Fur and Tail",
+				"value": "Standard"
+			},
+			{
+				"trait_type": "Breed",
+				"value": "Common"
+			},
+			{
+				"trait_type": "Patterns",
+				"value": "Spots"
+			},
+			{
+				"trait_type": "Flags",
+				"value": "None"
+			},
+			{
+				"trait_type": "Glasses",
+				"value": "None"
+			},
+			{
+				"trait_type": "Head",
+				"value": "Violet Wind Hair"
+			},
+			{
+				"trait_type": "Facial Hair",
+				"value": "Clean Shaven"
+			},
+			{
+				"trait_type": "Neck",
+				"value": "None"
+			},
+			{
+				"trait_type": "Pets",
+				"value": "None"
+			},
+			{
+				"trait_type": "Poop",
+				"value": "none"
+			}
+		],
+		"compiler": "HashLips Art Engine"
+	},
+	{
+		"name": "Telpacas #1312",
+		"description": "Telpacas is a generative collection of 10,000 tokens that live on the Telos EVM blockchain. Each Telpaca is unique. A few have very rare and surprising attributes.",
+		"image": "ipfs://Qmbvf8HqLv5BHheXDucQFXmYP9byEKfZwnXKwaZCqpkt6h/1312.png",
+		"dna": "5c81d8127445c81cea9938c5ddb061c851714ff6",
+		"id": 1312,
+		"date": 1646926572177,
+		"attributes": [
+			{
+				"trait_type": "Background",
+				"value": "Fence"
+			},
+			{
+				"trait_type": "Fur and Tail",
+				"value": "Standard"
+			},
+			{
+				"trait_type": "Breed",
+				"value": "Common"
+			},
+			{
+				"trait_type": "Skin",
+				"value": "Common"
+			},
+			{
+				"trait_type": "Patterns",
+				"value": "Streaks"
+			},
+			{
+				"trait_type": "Flags",
+				"value": "USA"
+			},
+			{
+				"trait_type": "Head",
+				"value": "None"
+			},
+			{
+				"trait_type": "Mouth",
+				"value": "Red Lipstick"
+			},
+			{
+				"trait_type": "Neck",
+				"value": "Gold Cross"
+			},
+			{
+				"trait_type": "Pets",
+				"value": "None"
+			},
+			{
+				"trait_type": "Poop",
+				"value": "none"
+			}
+		],
+		"compiler": "HashLips Art Engine"
+	},
+	{
+		"name": "Telpacas #1313",
+		"description": "Telpacas is a generative collection of 10,000 tokens that live on the Telos EVM blockchain. Each Telpaca is unique. A few have very rare and surprising attributes.",
+		"image": "ipfs://Qmbvf8HqLv5BHheXDucQFXmYP9byEKfZwnXKwaZCqpkt6h/1313.png",
+		"dna": "e9e21db6e8ec8c28bcc99d12c5caee98469c419e",
+		"id": 1313,
+		"date": 1646924989201,
+		"attributes": [
+			{
+				"trait_type": "Background",
+				"value": "Mountains"
+			},
+			{
+				"trait_type": "Fur and Tail",
+				"value": "Black"
+			},
+			{
+				"trait_type": "Breed",
+				"value": "Common"
+			},
+			{
+				"trait_type": "Patterns",
+				"value": "Stripes"
+			},
+			{
+				"trait_type": "Flags",
+				"value": "None"
+			},
+			{
+				"trait_type": "Glasses",
+				"value": "Zorro"
+			},
+			{
+				"trait_type": "Head",
+				"value": "Fedora"
+			},
+			{
+				"trait_type": "Facial Hair",
+				"value": "Clean Shaven"
+			},
+			{
+				"trait_type": "Neck",
+				"value": "Violet Bandana"
+			},
+			{
+				"trait_type": "Pets",
+				"value": "None"
+			},
+			{
+				"trait_type": "Poop",
+				"value": "none"
+			}
+		],
+		"compiler": "HashLips Art Engine"
+	},
+	{
+		"name": "Telpacas #1314",
+		"description": "Telpacas is a generative collection of 10,000 tokens that live on the Telos EVM blockchain. Each Telpaca is unique. A few have very rare and surprising attributes.",
+		"image": "ipfs://Qmbvf8HqLv5BHheXDucQFXmYP9byEKfZwnXKwaZCqpkt6h/1314.png",
+		"dna": "3bae99010efc31abb10cc1b7cd2b0209cad9cea5",
+		"id": 1314,
+		"date": 1646926228762,
+		"attributes": [
+			{
+				"trait_type": "Background",
+				"value": "Desert"
+			},
+			{
+				"trait_type": "Fur and Tail",
+				"value": "Darkgreen"
+			},
+			{
+				"trait_type": "Breed",
+				"value": "Common"
+			},
+			{
+				"trait_type": "Skin",
+				"value": "Blush"
+			},
+			{
+				"trait_type": "Patterns",
+				"value": "Stripes"
+			},
+			{
+				"trait_type": "Flags",
+				"value": "None"
+			},
+			{
+				"trait_type": "Head",
+				"value": "Rainbow Unicorn"
+			},
+			{
+				"trait_type": "Mouth",
+				"value": "Red Lipstick"
+			},
+			{
+				"trait_type": "Neck",
+				"value": "None"
+			},
+			{
+				"trait_type": "Pets",
+				"value": "Parrot"
+			},
+			{
+				"trait_type": "Poop",
+				"value": "none"
+			}
+		],
+		"compiler": "HashLips Art Engine"
+	},
+	{
+		"name": "Telpacas #1315",
+		"description": "Telpacas is a generative collection of 10,000 tokens that live on the Telos EVM blockchain. Each Telpaca is unique. A few have very rare and surprising attributes.",
+		"image": "ipfs://Qmbvf8HqLv5BHheXDucQFXmYP9byEKfZwnXKwaZCqpkt6h/1315.png",
+		"dna": "0b387019ac7193f35ae67700a6b91048e5f52f62",
+		"id": 1315,
+		"date": 1646924993417,
+		"attributes": [
+			{
+				"trait_type": "Background",
+				"value": "Snowcapped Mountains"
+			},
+			{
+				"trait_type": "Fur and Tail",
+				"value": "Flashy"
+			},
+			{
+				"trait_type": "Breed",
+				"value": "Common"
+			},
+			{
+				"trait_type": "Patterns",
+				"value": "Large Spots"
+			},
+			{
+				"trait_type": "Flags",
+				"value": "None"
+			},
+			{
+				"trait_type": "Glasses",
+				"value": "Small Shades"
+			},
+			{
+				"trait_type": "Head",
+				"value": "Mullet"
+			},
+			{
+				"trait_type": "Facial Hair",
+				"value": "Brown Beard"
+			},
+			{
+				"trait_type": "Neck",
+				"value": "Tie"
+			},
+			{
+				"trait_type": "Pets",
+				"value": "None"
+			},
+			{
+				"trait_type": "Poop",
+				"value": "none"
+			}
+		],
+		"compiler": "HashLips Art Engine"
+	},
+	{
+		"name": "Telpacas #1316",
+		"description": "Telpacas is a generative collection of 10,000 tokens that live on the Telos EVM blockchain. Each Telpaca is unique. A few have very rare and surprising attributes.",
+		"image": "ipfs://Qmbvf8HqLv5BHheXDucQFXmYP9byEKfZwnXKwaZCqpkt6h/1316.png",
+		"dna": "945c4cf2f19f37f74d8b6d929445a608e1c822c1",
+		"id": 1316,
+		"date": 1646926763800,
+		"attributes": [
+			{
+				"trait_type": "Background",
+				"value": "Snowcapped Mountains"
+			},
+			{
+				"trait_type": "Fur and Tail",
+				"value": "Fire Tailed Small"
+			},
+			{
+				"trait_type": "Breed",
+				"value": "Common"
+			},
+			{
+				"trait_type": "Skin",
+				"value": "Common"
+			},
+			{
+				"trait_type": "Patterns",
+				"value": "Large Spots"
+			},
+			{
+				"trait_type": "Flags",
+				"value": "Peru"
+			},
+			{
+				"trait_type": "Head",
+				"value": "Cowboy Hat"
+			},
+			{
+				"trait_type": "Mouth",
+				"value": "Red Lipstick"
+			},
+			{
+				"trait_type": "Neck",
+				"value": "Choker"
+			},
+			{
+				"trait_type": "Pets",
+				"value": "None"
+			},
+			{
+				"trait_type": "Poop",
+				"value": "none"
+			}
+		],
+		"compiler": "HashLips Art Engine"
+	},
+	{
+		"name": "Telpacas #1317",
+		"description": "Telpacas is a generative collection of 10,000 tokens that live on the Telos EVM blockchain. Each Telpaca is unique. A few have very rare and surprising attributes.",
+		"image": "ipfs://Qmbvf8HqLv5BHheXDucQFXmYP9byEKfZwnXKwaZCqpkt6h/1317.png",
+		"dna": "460b1b6fd4d0f3ae54b7f0c0d074bd0d50f18bec",
+		"id": 1317,
+		"date": 1646926645648,
+		"attributes": [
+			{
+				"trait_type": "Background",
+				"value": "Fence"
+			},
+			{
+				"trait_type": "Fur and Tail",
+				"value": "Standard"
+			},
+			{
+				"trait_type": "Breed",
+				"value": "Common"
+			},
+			{
+				"trait_type": "Skin",
+				"value": "Mole"
+			},
+			{
+				"trait_type": "Patterns",
+				"value": "Common"
+			},
+			{
+				"trait_type": "Flags",
+				"value": "None"
+			},
+			{
+				"trait_type": "Head",
+				"value": "Tophat"
+			},
+			{
+				"trait_type": "Mouth",
+				"value": "Pink Lipstick"
+			},
+			{
+				"trait_type": "Neck",
+				"value": "Bowtie"
+			},
+			{
+				"trait_type": "Pets",
+				"value": "Parrot"
+			},
+			{
+				"trait_type": "Poop",
+				"value": "none"
+			}
+		],
+		"compiler": "HashLips Art Engine"
+	},
+	{
+		"name": "Telpacas #1318",
+		"description": "Telpacas is a generative collection of 10,000 tokens that live on the Telos EVM blockchain. Each Telpaca is unique. A few have very rare and surprising attributes.",
+		"image": "ipfs://Qmbvf8HqLv5BHheXDucQFXmYP9byEKfZwnXKwaZCqpkt6h/1318.png",
+		"dna": "5603d4dfef366c68f87131ace558075ce32999f7",
+		"id": 1318,
+		"date": 1646924304719,
+		"attributes": [
+			{
+				"trait_type": "Background",
+				"value": "Snowcapped Mountains"
+			},
+			{
+				"trait_type": "Fur and Tail",
+				"value": "Brown"
+			},
+			{
+				"trait_type": "Breed",
+				"value": "Common"
+			},
+			{
+				"trait_type": "Skin",
+				"value": "Common"
+			},
+			{
+				"trait_type": "Patterns",
+				"value": "Stripes"
+			},
+			{
+				"trait_type": "Flags",
+				"value": "None"
+			},
+			{
+				"trait_type": "Head",
+				"value": "Gold Unicorn"
+			},
+			{
+				"trait_type": "Facial Hair",
+				"value": "Clean Shaven"
+			},
+			{
+				"trait_type": "Neck",
+				"value": "None"
+			},
+			{
+				"trait_type": "Pets",
+				"value": "None"
+			},
+			{
+				"trait_type": "Poop",
+				"value": "none"
+			}
+		],
+		"compiler": "HashLips Art Engine"
+	},
+	{
+		"name": "Telpacas #1319",
+		"description": "Telpacas is a generative collection of 10,000 tokens that live on the Telos EVM blockchain. Each Telpaca is unique. A few have very rare and surprising attributes.",
+		"image": "ipfs://Qmbvf8HqLv5BHheXDucQFXmYP9byEKfZwnXKwaZCqpkt6h/1319.png",
+		"dna": "325a407627cd322097828245bd930fb499491c76",
+		"id": 1319,
+		"date": 1646926344688,
+		"attributes": [
+			{
+				"trait_type": "Background",
+				"value": "Fence"
+			},
+			{
+				"trait_type": "Fur and Tail",
+				"value": "Brown"
+			},
+			{
+				"trait_type": "Breed",
+				"value": "Common"
+			},
+			{
+				"trait_type": "Skin",
+				"value": "Common"
+			},
+			{
+				"trait_type": "Patterns",
+				"value": "Streaks"
+			},
+			{
+				"trait_type": "Flags",
+				"value": "None"
+			},
+			{
+				"trait_type": "Head",
+				"value": "Gold Unicorn"
+			},
+			{
+				"trait_type": "Mouth",
+				"value": "Red Lipstick"
+			},
+			{
+				"trait_type": "Neck",
+				"value": "Pink Bandana"
+			},
+			{
+				"trait_type": "Pets",
+				"value": "None"
+			},
+			{
+				"trait_type": "Poop",
+				"value": "none"
+			}
+		],
+		"compiler": "HashLips Art Engine"
+	},
+	{
+		"name": "Telpacas #1320",
+		"description": "Telpacas is a generative collection of 10,000 tokens that live on the Telos EVM blockchain. Each Telpaca is unique. A few have very rare and surprising attributes.",
+		"image": "ipfs://Qmbvf8HqLv5BHheXDucQFXmYP9byEKfZwnXKwaZCqpkt6h/1320.png",
+		"dna": "68fbba56cc93312fcf5c2e3c1938b252f42b0fb1",
+		"id": 1320,
+		"date": 1646925684231,
+		"attributes": [
+			{
+				"trait_type": "Background",
+				"value": "Fence"
+			},
+			{
+				"trait_type": "Fur and Tail",
+				"value": "Standard"
+			},
+			{
+				"trait_type": "Skin",
+				"value": "Mole"
+			},
+			{
+				"trait_type": "Expressions",
+				"value": "Neutral"
+			},
+			{
+				"trait_type": "Eyes",
+				"value": "Straight Look"
+			},
+			{
+				"trait_type": "Patterns",
+				"value": "Spots"
+			},
+			{
+				"trait_type": "Flags",
+				"value": "None"
+			},
+			{
+				"trait_type": "Head",
+				"value": "Rainbow Unicorn"
+			},
+			{
+				"trait_type": "Mouth Accessories",
+				"value": "None"
+			},
+			{
+				"trait_type": "Neck",
+				"value": "Bowtie"
+			},
+			{
+				"trait_type": "Pets",
+				"value": "None"
+			},
+			{
+				"trait_type": "Poop",
+				"value": "none"
+			}
+		],
+		"compiler": "HashLips Art Engine"
+	},
+	{
+		"name": "Telpacas #1321",
+		"description": "Telpacas is a generative collection of 10,000 tokens that live on the Telos EVM blockchain. Each Telpaca is unique. A few have very rare and surprising attributes.",
+		"image": "ipfs://Qmbvf8HqLv5BHheXDucQFXmYP9byEKfZwnXKwaZCqpkt6h/1321.png",
+		"dna": "020fca37b8b6d12461d4bd69d2990cbd8465200e",
+		"id": 1321,
+		"date": 1646924978218,
+		"attributes": [
+			{
+				"trait_type": "Background",
+				"value": "Snowcapped Mountains"
+			},
+			{
+				"trait_type": "Fur and Tail",
+				"value": "Standard"
+			},
+			{
+				"trait_type": "Breed",
+				"value": "Common"
+			},
+			{
+				"trait_type": "Patterns",
+				"value": "Curls"
+			},
+			{
+				"trait_type": "Flags",
+				"value": "None"
+			},
+			{
+				"trait_type": "Glasses",
+				"value": "Hipster Glasses"
+			},
+			{
+				"trait_type": "Head",
+				"value": "Fringe"
+			},
+			{
+				"trait_type": "Facial Hair",
+				"value": "Clean Shaven"
+			},
+			{
+				"trait_type": "Neck",
+				"value": "None"
+			},
+			{
+				"trait_type": "Pets",
+				"value": "None"
+			},
+			{
+				"trait_type": "Poop",
+				"value": "none"
+			}
+		],
+		"compiler": "HashLips Art Engine"
+	},
+	{
+		"name": "Telpacas #1322",
+		"description": "Telpacas is a generative collection of 10,000 tokens that live on the Telos EVM blockchain. Each Telpaca is unique. A few have very rare and surprising attributes.",
+		"image": "ipfs://Qmbvf8HqLv5BHheXDucQFXmYP9byEKfZwnXKwaZCqpkt6h/1322.png",
+		"dna": "953c1216e4c844337daf9df519a15acc8fd526bc",
+		"id": 1322,
+		"date": 1646924481868,
+		"attributes": [
+			{
+				"trait_type": "Background",
+				"value": "Forest"
+			},
+			{
+				"trait_type": "Fur and Tail",
+				"value": "White"
+			},
+			{
+				"trait_type": "Breed",
+				"value": "Common"
+			},
+			{
+				"trait_type": "Skin",
+				"value": "Common"
+			},
+			{
+				"trait_type": "Patterns",
+				"value": "Stripes"
+			},
+			{
+				"trait_type": "Flags",
+				"value": "None"
+			},
+			{
+				"trait_type": "Head",
+				"value": "Purple Wild Hair"
+			},
+			{
+				"trait_type": "Facial Hair",
+				"value": "Clean Shaven"
+			},
+			{
+				"trait_type": "Neck",
+				"value": "None"
+			},
+			{
+				"trait_type": "Pets",
+				"value": "None"
+			},
+			{
+				"trait_type": "Poop",
+				"value": "none"
+			}
+		],
+		"compiler": "HashLips Art Engine"
+	},
+	{
+		"name": "Telpacas #1323",
+		"description": "Telpacas is a generative collection of 10,000 tokens that live on the Telos EVM blockchain. Each Telpaca is unique. A few have very rare and surprising attributes.",
+		"image": "ipfs://Qmbvf8HqLv5BHheXDucQFXmYP9byEKfZwnXKwaZCqpkt6h/1323.png",
+		"dna": "e88f44fa8c7cf7f2bbf28f4dbde19d29215881e9",
+		"id": 1323,
+		"date": 1646924238228,
+		"attributes": [
+			{
+				"trait_type": "Background",
+				"value": "Plateau"
+			},
+			{
+				"trait_type": "Fur and Tail",
+				"value": "Standard"
+			},
+			{
+				"trait_type": "Breed",
+				"value": "Common"
+			},
+			{
+				"trait_type": "Skin",
+				"value": "Common"
+			},
+			{
+				"trait_type": "Patterns",
+				"value": "Large Spots"
+			},
+			{
+				"trait_type": "Flags",
+				"value": "None"
+			},
+			{
+				"trait_type": "Head",
+				"value": "Apple"
+			},
+			{
+				"trait_type": "Facial Hair",
+				"value": "Brown Beard"
+			},
+			{
+				"trait_type": "Neck",
+				"value": "Violet Bandana"
+			},
+			{
+				"trait_type": "Pets",
+				"value": "None"
+			},
+			{
+				"trait_type": "Poop",
+				"value": "Rainbow"
+			}
+		],
+		"compiler": "HashLips Art Engine"
+	},
+	{
+		"name": "Telpacas #1324",
+		"description": "Telpacas is a generative collection of 10,000 tokens that live on the Telos EVM blockchain. Each Telpaca is unique. A few have very rare and surprising attributes.",
+		"image": "ipfs://Qmbvf8HqLv5BHheXDucQFXmYP9byEKfZwnXKwaZCqpkt6h/1324.png",
+		"dna": "0f84e44fabae591f4c9d7b17bf461e8b1890315f",
+		"id": 1324,
+		"date": 1646924461506,
+		"attributes": [
+			{
+				"trait_type": "Background",
+				"value": "Plateau"
+			},
+			{
+				"trait_type": "Fur and Tail",
+				"value": "Standard"
+			},
+			{
+				"trait_type": "Breed",
+				"value": "Common"
+			},
+			{
+				"trait_type": "Skin",
+				"value": "Common"
+			},
+			{
+				"trait_type": "Patterns",
+				"value": "Common"
+			},
+			{
+				"trait_type": "Flags",
+				"value": "None"
+			},
+			{
+				"trait_type": "Head",
+				"value": "Purple Wild Hair"
+			},
+			{
+				"trait_type": "Facial Hair",
+				"value": "Clean Shaven"
+			},
+			{
+				"trait_type": "Neck",
+				"value": "Choker"
+			},
+			{
+				"trait_type": "Pets",
+				"value": "None"
+			},
+			{
+				"trait_type": "Poop",
+				"value": "none"
+			}
+		],
+		"compiler": "HashLips Art Engine"
+	},
+	{
+		"name": "Telpacas #1325",
+		"description": "Telpacas is a generative collection of 10,000 tokens that live on the Telos EVM blockchain. Each Telpaca is unique. A few have very rare and surprising attributes.",
+		"image": "ipfs://Qmbvf8HqLv5BHheXDucQFXmYP9byEKfZwnXKwaZCqpkt6h/1325.png",
+		"dna": "21f5bd0262cc18199066b9e6f9025d86af5b32fc",
+		"id": 1325,
+		"date": 1646925074345,
+		"attributes": [
+			{
+				"trait_type": "Background",
+				"value": "Desert"
+			},
+			{
+				"trait_type": "Fur and Tail",
+				"value": "Black"
+			},
+			{
+				"trait_type": "Breed",
+				"value": "Common"
+			},
+			{
+				"trait_type": "Patterns",
+				"value": "Spots"
+			},
+			{
+				"trait_type": "Flags",
+				"value": "Korea"
+			},
+			{
+				"trait_type": "Glasses",
+				"value": "None"
+			},
+			{
+				"trait_type": "Head",
+				"value": "Bullseye"
+			},
+			{
+				"trait_type": "Facial Hair",
+				"value": "Clean Shaven"
+			},
+			{
+				"trait_type": "Neck",
+				"value": "Bowtie"
+			},
+			{
+				"trait_type": "Pets",
+				"value": "None"
+			},
+			{
+				"trait_type": "Poop",
+				"value": "none"
+			}
+		],
+		"compiler": "HashLips Art Engine"
+	},
+	{
+		"name": "Telpacas #1326",
+		"description": "Telpacas is a generative collection of 10,000 tokens that live on the Telos EVM blockchain. Each Telpaca is unique. A few have very rare and surprising attributes.",
+		"image": "ipfs://Qmbvf8HqLv5BHheXDucQFXmYP9byEKfZwnXKwaZCqpkt6h/1326.png",
+		"dna": "832fb53cb9c814d0c6c120a527f401bbafd41636",
+		"id": 1326,
+		"date": 1646924603199,
+		"attributes": [
+			{
+				"trait_type": "Background",
+				"value": "Plateau"
+			},
+			{
+				"trait_type": "Fur and Tail",
+				"value": "Standard"
+			},
+			{
+				"trait_type": "Breed",
+				"value": "Common"
+			},
+			{
+				"trait_type": "Skin",
+				"value": "Mole"
+			},
+			{
+				"trait_type": "Patterns",
+				"value": "Streaks"
+			},
+			{
+				"trait_type": "Flags",
+				"value": "None"
+			},
+			{
+				"trait_type": "Head",
+				"value": "Tophat"
+			},
+			{
+				"trait_type": "Facial Hair",
+				"value": "Clean Shaven"
+			},
+			{
+				"trait_type": "Neck",
+				"value": "Violet Bandana"
+			},
+			{
+				"trait_type": "Pets",
+				"value": "None"
+			},
+			{
+				"trait_type": "Poop",
+				"value": "none"
+			}
+		],
+		"compiler": "HashLips Art Engine"
+	},
+	{
+		"name": "Telpacas #1327",
+		"description": "Telpacas is a generative collection of 10,000 tokens that live on the Telos EVM blockchain. Each Telpaca is unique. A few have very rare and surprising attributes.",
+		"image": "ipfs://Qmbvf8HqLv5BHheXDucQFXmYP9byEKfZwnXKwaZCqpkt6h/1327.png",
+		"dna": "ae61e8b1b3959b0f1c7f64cb9d66cdc1a5cc95d8",
+		"id": 1327,
+		"date": 1646924882339,
+		"attributes": [
+			{
+				"trait_type": "Background",
+				"value": "Plateau"
+			},
+			{
+				"trait_type": "Fur and Tail",
+				"value": "Rainbow Tailed Small"
+			},
+			{
+				"trait_type": "Breed",
+				"value": "Common"
+			},
+			{
+				"trait_type": "Patterns",
+				"value": "Stripes"
+			},
+			{
+				"trait_type": "Flags",
+				"value": "None"
+			},
+			{
+				"trait_type": "Glasses",
+				"value": "3D Glasses"
+			},
+			{
+				"trait_type": "Head",
+				"value": "Straight Hair"
+			},
+			{
+				"trait_type": "Facial Hair",
+				"value": "Clean Shaven"
+			},
+			{
+				"trait_type": "Neck",
+				"value": "Violet Bandana"
+			},
+			{
+				"trait_type": "Pets",
+				"value": "None"
+			},
+			{
+				"trait_type": "Poop",
+				"value": "none"
+			}
+		],
+		"compiler": "HashLips Art Engine"
+	},
+	{
+		"name": "Telpacas #1328",
+		"description": "Telpacas is a generative collection of 10,000 tokens that live on the Telos EVM blockchain. Each Telpaca is unique. A few have very rare and surprising attributes.",
+		"image": "ipfs://Qmbvf8HqLv5BHheXDucQFXmYP9byEKfZwnXKwaZCqpkt6h/1328.png",
+		"dna": "19d900f5abc490ae67b927bd0c9f5b2075370f84",
+		"id": 1328,
+		"date": 1646925487889,
+		"attributes": [
+			{
+				"trait_type": "Background",
+				"value": "Forest"
+			},
+			{
+				"trait_type": "Fur and Tail",
+				"value": "Standard"
+			},
+			{
+				"trait_type": "Skin",
+				"value": "Common"
+			},
+			{
+				"trait_type": "Expressions",
+				"value": "Smirk"
+			},
+			{
+				"trait_type": "Eyes",
+				"value": "Look Away"
+			},
+			{
+				"trait_type": "Patterns",
+				"value": "Curls"
+			},
+			{
+				"trait_type": "Flags",
+				"value": "None"
+			},
+			{
+				"trait_type": "Head",
+				"value": "Tophat"
+			},
+			{
+				"trait_type": "Mouth Accessories",
+				"value": "Pacifier"
+			},
+			{
+				"trait_type": "Neck",
+				"value": "Gold Cross"
+			},
+			{
+				"trait_type": "Pets",
+				"value": "None"
+			},
+			{
+				"trait_type": "Poop",
+				"value": "none"
+			}
+		],
+		"compiler": "HashLips Art Engine"
+	},
+	{
+		"name": "Telpacas #1329",
+		"description": "Telpacas is a generative collection of 10,000 tokens that live on the Telos EVM blockchain. Each Telpaca is unique. A few have very rare and surprising attributes.",
+		"image": "ipfs://Qmbvf8HqLv5BHheXDucQFXmYP9byEKfZwnXKwaZCqpkt6h/1329.png",
+		"dna": "39406b5a2a962fc2f21cd68574900389e396c673",
+		"id": 1329,
+		"date": 1646924860218,
+		"attributes": [
+			{
+				"trait_type": "Background",
+				"value": "Fence"
+			},
+			{
+				"trait_type": "Fur and Tail",
+				"value": "Darkgreen"
+			},
+			{
+				"trait_type": "Breed",
+				"value": "Common"
+			},
+			{
+				"trait_type": "Patterns",
+				"value": "Spots"
+			},
+			{
+				"trait_type": "Flags",
+				"value": "None"
+			},
+			{
+				"trait_type": "Glasses",
+				"value": "None"
+			},
+			{
+				"trait_type": "Head",
+				"value": "Purple Wild Hair"
+			},
+			{
+				"trait_type": "Facial Hair",
+				"value": "Clean Shaven"
+			},
+			{
+				"trait_type": "Neck",
+				"value": "Violet Bandana"
+			},
+			{
+				"trait_type": "Pets",
+				"value": "None"
+			},
+			{
+				"trait_type": "Poop",
+				"value": "none"
+			}
+		],
+		"compiler": "HashLips Art Engine"
 	}
 ]
